@@ -1,17 +1,17 @@
 # Site settings
-title: Clean Blog
+title: Vitali lobanov
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: ithebfxy@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+baseurl: /another-blog
+url: http://lobanov.tech
+twitter_username: powetoya
+github_username:  bfxy
+facebook_username:  vitali.lobanov
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
