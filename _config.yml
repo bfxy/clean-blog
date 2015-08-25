@@ -1,16 +1,16 @@
 # Site settings
-title: Vitali lobanov
+title: Vitali Lobanov
 header-img: img/home-bg.jpg
 email: ithebfxy@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: /another-blog
+description: "Hey there! The site is under construction. Sorreh."
+baseurl: /clean-blog
 url: http://lobanov.tech
 twitter_username: powetoya
 github_username:  bfxy
 facebook_username:  vitali.lobanov
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: pretty
 paginate: 10
