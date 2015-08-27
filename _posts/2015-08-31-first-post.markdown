@@ -4,7 +4,7 @@ title:  "Thoughts and trivia on user guides"
 date:   2015-08-21 10:18:00
 description: Trying out Sphinx with some funny ass document that I made for a job interview
 author:     "Vitili Lobonow"
-header-img: "img/post-bg-03.jpg"
+header-img: "img/headpic.jpg"
 ---
 First post, hehe.
 

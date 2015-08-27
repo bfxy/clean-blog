@@ -1,5 +1,6 @@
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
   font-size: 20px;
   color: #404040;
 }
@@ -171,7 +172,7 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 60px;
   }
 }
 .intro-header .post-heading h1 {
@@ -189,8 +190,7 @@ hr.small {
   font-weight: 600;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-style: italic;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 20px;
 }
@@ -226,7 +226,6 @@ hr.small {
 .post-preview > .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
