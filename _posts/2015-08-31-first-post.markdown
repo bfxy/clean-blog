@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Thoughts and trivia on user guides"
+title:  "Pseudo user guide for a simple elevator"
+subtitle: Trying out Sphinx with some funny ass document that I made for a job interview
 date:   2015-08-21 10:18:00
-description: Trying out Sphinx with some funny ass document that I made for a job interview
 author:     "Vitili Lobonow"
 header-img: "img/headpic.jpg"
 ---

@@ -3,6 +3,8 @@ body {
   font-weight: 300;
   font-size: 20px;
   color: #404040;
+  background-image: linear-gradient(#fff6e4, #8b9da9);
+  box-shadow: inset 0 0 100px hsla(0,0%,0%,.3);
 }
 p {
   line-height: 1.5;
