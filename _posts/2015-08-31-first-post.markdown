@@ -26,3 +26,5 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
+
+<p class="copyright text-muted">Photo credit: Some Dude</p>

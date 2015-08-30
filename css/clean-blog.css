@@ -1,10 +1,21 @@
+@font-face {
+    font-family: 'LatoWebLight';
+    src: url('fonts/Lato-Light.eot'); /* IE9 Compat Modes */
+    src: url('fonts/Lato-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/Lato-Light.woff2') format('woff2'), /* Modern Browsers */
+         url('fonts/Lato-Light.woff') format('woff'), /* Modern Browsers */
+         url('fonts/Lato-Light.ttf') format('truetype');
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+}
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'LatoWebLight', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 20px;
   color: #404040;
-  background-image: linear-gradient(#fff6e4, #8b9da9);
-  box-shadow: inset 0 0 100px hsla(0,0%,0%,.3);
+  background-image: linear-gradient(#fff6e4, #C5CAC6);
+  /*box-shadow: inset 0 0 100px hsla(0,0%,0%,.3);*/
+  /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);*/
 }
 p {
   line-height: 1.5;
@@ -337,7 +348,7 @@ form .row:first-child .floating-label-form-group {
 .btn-default:hover,
 .btn-default:focus {
   background-color: #0085a1;
-  border: 1px solid #0085a1;
+  border: 0px solid #0085a1;
   color: white;
 }
 .pager {
