@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Pseudo user guide for a simple elevator"
-subtitle: Trying out Sphinx with some funny ass document that I made for a job interview
+subtitle: Trying out Sphinx 
 date:   2015-08-21 10:18:00
 author:     "Vitili Lobonow"
 header-img: "img/headpic.jpg"
 ---
-First post, hehe.
+First post.
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
